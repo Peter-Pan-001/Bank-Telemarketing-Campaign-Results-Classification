@@ -1,6 +1,6 @@
 # Bank-Telemarketing-Campaign-Results-Classification
 
-## Intruduction
+## Introduction
 
 Bank marketing campaigns offers a powerful and effective way for companies to introduce their products and build a connection with their customers.
 
