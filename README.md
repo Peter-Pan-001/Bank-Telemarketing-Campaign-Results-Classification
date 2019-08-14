@@ -9,7 +9,7 @@ Our study focused on a real dataset of 45,211 records which consists of direct m
 The innovation of this study is to test the hypothesis ---- whether adding macroeconomic features, e.g. Economic Sentiment Indicator, Active Population Rate etc. to the overall dataset could improve the performance of the whole classification model. 
 
 
-## Data Cleasing
+## Data Cleansing
 
 The original dataset has missing values in several features. First, there are missing values labeled as ‘unknown’ in the ‘job’ column. Empirically and psychologically, people tend to be more reluctant to disclose their job status if they are unemployed. So imputing the missing values with ‘unemployed’ makes sense.
 
